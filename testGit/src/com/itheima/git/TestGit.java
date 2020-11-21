@@ -5,6 +5,8 @@ public class TestGit {
         System.out.println("hello git");
     }
     public void print(){
-        System.out.println("1+1=2");
+        int i=2;
+        i++;
+        System.out.println(i);
     }
 }
